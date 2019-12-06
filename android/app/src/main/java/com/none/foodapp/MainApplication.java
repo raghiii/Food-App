@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.none.foodapp;
 
 import androidx.multidex.MultiDexApplication;
 
